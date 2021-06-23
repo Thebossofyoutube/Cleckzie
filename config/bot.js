@@ -28,7 +28,7 @@ module.exports = {
 
 // Discord Prefix and Other
 discord: {
-  prefix: '*',
+  prefix: 'vib',
   hostedBy: true,
   everyoneMention: false
 },
